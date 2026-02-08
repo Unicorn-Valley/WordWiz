@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\user\\\\Documents\\\\GitHub\\\\WordWiz\\\\src\\\\components\\\\scan\\\\ExtratedWordsList.tsx\")",
+      "Bash(python:*)"
+    ]
+  }
+}
